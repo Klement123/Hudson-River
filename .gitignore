@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+Hydrography/WBD_02_HU2_GDB/
+MidAtlanticFlowlines/
+*.gpkg-wal
+*.gpkg-shm
